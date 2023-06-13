@@ -1,3 +1,3 @@
 # HexColors-Javascript
-### Third day of learning HTML + CSS + JavaScript
+### Learning HTML, CSS and JavaScript #3
 #### 12/06/2023
